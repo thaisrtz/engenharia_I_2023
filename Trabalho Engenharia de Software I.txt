@@ -1,0 +1,56 @@
+﻿Aluna: Thais Regina Tedesco Zanella
+
+
+A Crise de Software
+
+
+O termo “crise de software” data das décadas de 1960 e 1970, pois haviam muitas dificuldades no desenvolvimento de grandes sistemas de software.Os problemas surgiram da impossibilidade de aplicar as técnicas usadas para desenvolver sistemas pequenos ao desenvolvimento de sistemas grandes e complexos. 
+O processo de desenvolvimento utilizado para pequenos softwares consistia em um grupo de desenvolvedores começando a escrever o código tendo apenas uma vaga ideia dos requisitos necessários e alterando o até chegar no resultado desejado. Apesar de ser a forma mais simples de criar programas, é uma estratégia insustentável, pois além de ser  impossível prever o tempo de entrega e os valores, os possíveis problemas e riscos não são levados em conta, podendo atrasar totalmente o projeto. O tempo e dinheiro investido em operações como estas era maior do que o necessário, e geralmente resultava em sistemas difíceis de usar, que não atendiam a todas as necessidades e difíceis de serem alterados.
+Reconhecendo estes problemas, estudos foram realizados sobre o processo de desenvolvimento de software para chegar a uma conclusão sólida do melhor método para produzir softwares confiáveis, sustentáveis e corretos. Também sendo possível fazer previsões de tempo e custo com melhor precisão e monitorar os estágios dos projetos.
+A solução da crise de softwares foi alcançada por meio de um melhor gerenciamento e planejamento de projetos e mais treinamento e capacitação em engenharia de software. As descobertas e análises levaram a um processo direto para o design, desenvolvimento e testes de software, com etapas a serem seguidas e  adaptadas às necessidades de cada projeto. Chamado de Software Development Life Cycle e consiste de um plano detalhado que descreve como desenvolver, manter, alterar ou melhorar sistemas. Ele define o método para melhorar a qualidade do software e o processo de desenvolvimento em geral.
+
+
+Requisitos funcionais
+
+
+Requisitos funcionais são características do sistemas que são necessárias para a realização de suas tarefas e objetivos. Descrevem o comportamento do sistema em condições específicas, o que ele deve fazer e as tarefas que precisa realizar, ou seja, como é especificado em seu nome, em si é toda a funcionalidade do sistema.
+
+
+Requisitos não funcionais
+
+
+        Requisitos não funcionais descrevem como o sistema funciona, ou seja, enquanto requisitos funcionais definem o que o sistema faz, requisitos não funcionais descrevem como ele faz. Descreve suas capacidades e suas restrições, como ele ira operar, sua velocidade, segurança, confiabilidade, integridade dos dados, entre outros.
+
+
+Requisitos de Sistema
+
+
+Os requisitos de sistema são declarações do que um sistema precisa ser capaz de realizar para atender as necessidades dos intervenientes. São técnicos e precisos, escritos pelos desenvolvedores do sistema.  Eles derivam dos requisitos de negócio e de usuário. Devem ser divididos entre funcionais e não funcionais. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Evolução da Engenharia de Software
+Durante as décadas de 1960 e 1970, o setor de software passou por uma crise que ficou conhecida como "crise de software". Isso ocorreu devido às dificuldades em desenvolver sistemas grandes e complexos, já que o processo de desenvolvimento utilizado para sistemas pequenos não era viável para projetos maiores. Na época, os desenvolvedores começavam a escrever o código sem uma ideia clara dos requisitos necessários e, consequentemente, não levavam em conta possíveis problemas e riscos. Além disso, não era possível prever o tempo de entrega e os valores, o que resultava em sistemas difíceis de usar e com baixa qualidade.
+Para solucionar esses problemas, foram realizados estudos para aprimorar o gerenciamento e planejamento de projetos, além de oferecer treinamento em engenharia de software. A solução para a crise foi alcançada através de um processo direto de design, desenvolvimento e testes de software, chamado de Software Development Life Cycle (SDLC). Esse processo consiste em um plano detalhado que descreve como desenvolver, manter, alterar ou melhorar sistemas e tem como objetivo melhorar a qualidade do software e o processo de desenvolvimento em geral.
+Os requisitos funcionais são as características necessárias para a realização das tarefas e objetivos do sistema, descrevendo seu comportamento em condições específicas. Por exemplo, em um sistema de vendas online, os requisitos funcionais seriam a capacidade de adicionar produtos ao carrinho, calcular o valor da compra e realizar o pagamento. Já os requisitos não funcionais descrevem como o sistema funciona, como sua velocidade, segurança e confiabilidade. No caso do sistema de vendas online, os requisitos não funcionais seriam a capacidade de suportar muitos usuários simultaneamente e garantir a segurança das informações de pagamento dos clientes.
+Os requisitos de sistema são declarações técnicas e precisas do que um sistema precisa ser capaz de realizar para atender às necessidades dos intervenientes. Eles derivam dos requisitos de negócio e usuário e devem ser divididos entre funcionais e não funcionais. Os requisitos de negócio se referem aos objetivos e metas do sistema, enquanto os requisitos de usuário se referem às necessidades dos usuários finais. Por exemplo, em um sistema de gestão de estoque, os requisitos de negócio seriam a capacidade de gerenciar o estoque de forma eficiente e reduzir os custos, enquanto os requisitos de usuário seriam a facilidade de uso do sistema e a capacidade de visualizar os dados de estoque em tempo real.
+Ao longo dos anos, a engenharia de software evoluiu e novas metodologias foram desenvolvidas para atender às necessidades do mercado. Uma dessas metodologias é a Agile, que se concentra em desenvolver software de forma iterativa e incremental, priorizando a entrega de valor ao cliente em curtos períodos de tempo. A Agile se baseia em quatro valores fundamentais: indivíduos e interações acima de processos e ferramentas; software em funcionamento acima de documentação abrangente; colaboração com o cliente acima de negociação de contr
