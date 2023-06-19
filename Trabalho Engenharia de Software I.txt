@@ -26,31 +26,3 @@ Requisitos de Sistema
 
 
 Os requisitos de sistema são declarações do que um sistema precisa ser capaz de realizar para atender as necessidades dos intervenientes. São técnicos e precisos, escritos pelos desenvolvedores do sistema.  Eles derivam dos requisitos de negócio e de usuário. Devem ser divididos entre funcionais e não funcionais. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A Evolução da Engenharia de Software
-Durante as décadas de 1960 e 1970, o setor de software passou por uma crise que ficou conhecida como "crise de software". Isso ocorreu devido às dificuldades em desenvolver sistemas grandes e complexos, já que o processo de desenvolvimento utilizado para sistemas pequenos não era viável para projetos maiores. Na época, os desenvolvedores começavam a escrever o código sem uma ideia clara dos requisitos necessários e, consequentemente, não levavam em conta possíveis problemas e riscos. Além disso, não era possível prever o tempo de entrega e os valores, o que resultava em sistemas difíceis de usar e com baixa qualidade.
-Para solucionar esses problemas, foram realizados estudos para aprimorar o gerenciamento e planejamento de projetos, além de oferecer treinamento em engenharia de software. A solução para a crise foi alcançada através de um processo direto de design, desenvolvimento e testes de software, chamado de Software Development Life Cycle (SDLC). Esse processo consiste em um plano detalhado que descreve como desenvolver, manter, alterar ou melhorar sistemas e tem como objetivo melhorar a qualidade do software e o processo de desenvolvimento em geral.
-Os requisitos funcionais são as características necessárias para a realização das tarefas e objetivos do sistema, descrevendo seu comportamento em condições específicas. Por exemplo, em um sistema de vendas online, os requisitos funcionais seriam a capacidade de adicionar produtos ao carrinho, calcular o valor da compra e realizar o pagamento. Já os requisitos não funcionais descrevem como o sistema funciona, como sua velocidade, segurança e confiabilidade. No caso do sistema de vendas online, os requisitos não funcionais seriam a capacidade de suportar muitos usuários simultaneamente e garantir a segurança das informações de pagamento dos clientes.
-Os requisitos de sistema são declarações técnicas e precisas do que um sistema precisa ser capaz de realizar para atender às necessidades dos intervenientes. Eles derivam dos requisitos de negócio e usuário e devem ser divididos entre funcionais e não funcionais. Os requisitos de negócio se referem aos objetivos e metas do sistema, enquanto os requisitos de usuário se referem às necessidades dos usuários finais. Por exemplo, em um sistema de gestão de estoque, os requisitos de negócio seriam a capacidade de gerenciar o estoque de forma eficiente e reduzir os custos, enquanto os requisitos de usuário seriam a facilidade de uso do sistema e a capacidade de visualizar os dados de estoque em tempo real.
-Ao longo dos anos, a engenharia de software evoluiu e novas metodologias foram desenvolvidas para atender às necessidades do mercado. Uma dessas metodologias é a Agile, que se concentra em desenvolver software de forma iterativa e incremental, priorizando a entrega de valor ao cliente em curtos períodos de tempo. A Agile se baseia em quatro valores fundamentais: indivíduos e interações acima de processos e ferramentas; software em funcionamento acima de documentação abrangente; colaboração com o cliente acima de negociação de contr
